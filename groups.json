@@ -23,6 +23,18 @@
       "pfp": "pfp/nuofwabjf-b92d.png",
       "added": "2026-10-15T02:39:14.776Z",
       "boostedUntil": null
+    },
+    {
+      "id": "testing-1-73c6",
+      "name": "Testing 1",
+      "link": "https://discord.gg/4QG3CGa6u",
+      "platform": "Discord",
+      "network": "Solana",
+      "type": "Alpha calls",
+      "desc": "",
+      "pfp": "pfp/testing-1-73c6.png",
+      "added": "2026-10-15T02:49:04.908Z",
+      "boostedUntil": null
     }
   ]
 }
