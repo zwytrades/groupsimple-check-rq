@@ -1,3 +1,16 @@
 {
-  "groups": []
+  "groups": [
+    {
+      "id": "njdw-7ee2",
+      "name": "njdw",
+      "link": "https://discord.gg/roblox",
+      "platform": "Discord",
+      "network": "Solana",
+      "type": "Alpha calls",
+      "desc": "edfsf",
+      "pfp": "pfp/njdw-7ee2.png",
+      "added": "2026-10-15T02:31:06.181Z",
+      "boostedUntil": null
+    }
+  ]
 }
